@@ -4,7 +4,7 @@
 
 void main()
 {
-    char chave[50] = "", key[50] = "porraa", guess[50] = "oi", fora[50] = "";
+    char chave[50] = "", key[50] = "termo", guess[50] = "oi", fora[50] = "";
     int i, ind, tent = 0;
     while(guess != NULL){
         scanf("%s", &guess);
